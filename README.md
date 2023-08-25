@@ -2,7 +2,7 @@
 
 novel-project是基于时下**最新**Java技术栈 Spring Boot 3 + Vue3 开发的前后端分离的小说网站项目，由小说门户系统、作家后台管理系统以及平台后台管理系统(待开发)三个子系统构成。包括小说推荐、作品检索、 小说排行榜、小说阅读、小说评论、作家专区和新闻发布等功能。
 
-![image-20230822161529344](C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822161529344.png)
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825145822822.png" alt="image-20230825145822822" style="zoom:80%;" />
 
 
 
@@ -91,25 +91,25 @@ novel-project是基于时下**最新**Java技术栈 Spring Boot 3 + Vue3 开发�
 
 #### 首页模块
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155015662.png" alt="image-20230822155015662" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825145908301.png" alt="image-20230825145908301" style="zoom:80%;" />
 
 #### 新闻模块
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155358569.png" alt="image-20230822155358569" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825145925839.png" alt="image-20230825145925839" style="zoom:80%;" />
 
 #### 小说模块
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155606520.png" alt="image-20230822155606520" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825145950009.png" alt="image-20230825145950009" style="zoom:80%;" />
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155625090.png" alt="image-20230822155625090" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825150010685.png" alt="image-20230825150010685" style="zoom:80%;" />
 
 #### 用户模块
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155743311.png" alt="image-20230822155743311" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825150028119.png" alt="image-20230825150028119" style="zoom:80%;" />
 
 #### 作家模块
 
-<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230822155823580.png" alt="image-20230822155823580" style="zoom:80%;" />
+<img src="C:\Users\甘绍杰\AppData\Roaming\Typora\typora-user-images\image-20230825150044827.png" alt="image-20230825150044827" style="zoom:80%;" />
 
 
 
